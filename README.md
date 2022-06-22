@@ -4,7 +4,7 @@ SOBRE MIM
 - 👋 Oi,eu sou @erikfernandovieira
 - 👀 eu estou interessado em programação
 - 🌱 eu estou aprendendo a programação, java script,HTML, CSS
-- 💞️ no tempo vago eu gosto de participar de campeonatos, fazer lives, ou coisas que emvolva grupos, online ou pressencial
+- 💞️ no tempo vago eu gosto de participar de jogar, dormir, fazer lives, ou coisas que emvolva grupos, online ou pressencial
 - 📫 meu E-mail é erik.lopes.ribeiro@escola.pr.gov.br
 
 <!---
